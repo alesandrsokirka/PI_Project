@@ -3,10 +3,11 @@
 https://huggingface.co/spaces/ASokirka/Pi_Project
 
 PI_URFU_2023
-Команда 1.5
+Команда
 Сокирка А.
 
 Программная инженерия. Итоговый проект (PJ)
+[![Tests](https://github.com/alesandrsokirka/PI_Project/actions/workflows/python-app.yml/badge.svg)](https://github.com/alesandrsokirka/PI_Project/actions/workflows/python-app.yml)
 
 Цель проекта: разработать Web приложение машинного обучения и развернуть его в облаке. В проекте используется модель blanchefort/rubert-base-cased-sentiment.
 
